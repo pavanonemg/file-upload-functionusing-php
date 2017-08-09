@@ -1,0 +1,4 @@
+[11-Jul-2017 01:02:12 America/Chicago] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/onemg/public_html/php-email-form-attachment/send-email-form.php on line 5
+[11-Jul-2017 01:02:12 America/Chicago] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/onemg/public_html/php-email-form-attachment/send-email-form.php on line 5
+[11-Jul-2017 01:02:42 America/Chicago] PHP Warning:  include_once(Mail_Mime/mime.php): failed to open stream: No such file or directory in /home/onemg/public_html/php-email-form-attachment/send-email-form.php on line 5
+[11-Jul-2017 01:02:42 America/Chicago] PHP Warning:  include_once(): Failed opening 'Mail_Mime/mime.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/onemg/public_html/php-email-form-attachment/send-email-form.php on line 5
